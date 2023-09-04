@@ -1,14 +1,12 @@
 ---
 title: About Me
-author: Luke Min
-date: 2023-03-20
+author: Jinyeong Seo
 category: Introduction
 layout: home
 permalink: /
 ---
 
-I am a master student at the Department of Computer Science and Engineering, Seoul National University (SNU). My advisor is Professor [Yongsoo Song]. I graduated Daegu Science High School (2018) and did a B.S. in Mathematics at Seoul National University (SNU).
+I am a graduate student at Seoul National University, advised by Prof. Yongsoo Song. 
 
-My main research area is Fully Homomorphic Encryption (FHE) and its applications, such as Privacy Preserving Maching Learning (PPML) and Multi-Party Computation (MPC). 
-
-[Yongsoo Song]: https://yongsoosong.github.io
+My research interest lies in (but is not limited to) the practical instantiation of cryptographic protocols using techniques from lattice-based cryptography. Specifically, my recent research focuses on improving the performance of lattice-based proof systems and homomorphic encryption schemes. 
+I also have broad interests in the theoretical foundations of cryptographic proofs. 
