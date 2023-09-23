@@ -7,4 +7,4 @@ layout: post
 
 - [CV] 
 
-[CV]: https://github.com/isaac-seo/isaac-seo.github.io/blob/master/files/cv.pdf
+[CV]: https://jin-yeong-seo.github.io/files/cv.pdf
