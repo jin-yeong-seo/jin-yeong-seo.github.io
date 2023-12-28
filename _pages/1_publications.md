@@ -7,9 +7,9 @@ layout: post
 
 Authors are listed in alphabetical order by last name, unless an asterisk(\*) is indicated.
 
-- [Optimizing HE operations via Level-aware Key-switching Framework]
-  - I.Hwang, <ins>J.Seo</ins>, Y.Song
-  - In WAHC 2023 
+- [Optimizing HE operations via Level-aware Key-switching Framework] <br/>
+  I.Hwang, <ins>J.Seo</ins>, Y.Song <br/>
+  In WAHC 2023 
 - [Asymptotically faster multi-key homomorphic encryption from homomorphic gadget decomposition] (CCS 2023) - T.Kim, H.Kwak, D.Lee, <ins>J.Seo</ins>, Y.Song
 - [Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE] (CRYPTO 2023) - D.Kim, D.Lee, <ins>J.Seo</ins>, Y.Song
 - [Accelerating HE Operations from Key Decomposition Technique] (CRYPTO 2023) - M.Kim, D.Lee, <ins>J.Seo</ins>, Y.Song
