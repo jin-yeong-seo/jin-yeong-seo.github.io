@@ -6,7 +6,7 @@ layout: home
 permalink: /
 ---
 <p align="center">
-  <img src="./files/photo.jpeg" width="360px" height="345px" title="my_photo"/>
+  <img src="./files/photo.jpeg" width="240px" height="230px" title="my_photo"/>
 </p>
 
 I am a graduate student at Seoul National University, advised by Prof. Yongsoo Song. 
