@@ -5,7 +5,7 @@ category: Introduction
 layout: home
 permalink: /
 ---
-![Photo](./files/photo.jpeg) 
+<img src="./files/photo.jpeg" width="360px" height="345px" title="my_photo"/>
 
 I am a graduate student at Seoul National University, advised by Prof. Yongsoo Song. 
 
