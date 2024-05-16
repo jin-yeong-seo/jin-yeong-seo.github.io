@@ -7,6 +7,10 @@ layout: post
 
 Authors are listed in alphabetical order by last name, unless an asterisk(\*) is indicated.
 
+- [Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions] <br/>
+  I.Hwang, <ins>J.Seo</ins>, Y.Song <br/>
+  CRYPTO 2024 
+
 - [Optimizing HE operations via Level-aware Key-switching Framework] <br/>
   I.Hwang, <ins>J.Seo</ins>, Y.Song <br/>
   WAHC 2023 
@@ -31,6 +35,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
   Y.Lee, <ins>J.Seo</ins>, Y.Nam, J.Chae, J.Cheon <br/>
   IEEE TDSC 2023
 
+[Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions]: https://eprint.iacr.org/2024/306
 [Optimizing HE operations via Level-aware Key-switching Framework]: https://eprint.iacr.org/2023/1328
 [Asymptotically faster multi-key homomorphic encryption from homomorphic gadget decomposition]: https://eprint.iacr.org/2022/347
 [Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE]: https://eprint.iacr.org/2023/623
