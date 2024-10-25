@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Jinyeong Seo
 author: Jinyeong Seo
 category: Introduction
 layout: home
