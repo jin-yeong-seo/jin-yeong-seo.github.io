@@ -17,4 +17,7 @@ Specifically, my recent research focuses on improving the performance of lattice
 
 I also have broad interests in the theoretical foundations of cryptographic proofs. 
 
+For a complete list of my publications, please visit my [Google Scholar].
+
 [Yongsoo Song]: https://yongsoosong.github.io/
+[Google Scholar]: https://scholar.google.com/citations?user=izvRPnMAAAAJ&hl=en&authuser=4
