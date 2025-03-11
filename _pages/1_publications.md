@@ -17,7 +17,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
     
 1. [TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing] <br/>
   H.Cha, I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
-  Preprint
+  To appear in S&P 2025
 
 1. [Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS] <br/>
   J.Kim, <ins>J.Seo</ins>, Y.Song <br/>
