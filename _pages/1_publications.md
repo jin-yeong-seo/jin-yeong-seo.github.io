@@ -11,9 +11,13 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
   I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
   Preprint
 
+1. [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation] <br/>
+  I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
+  CCS 2025  
+
 1. [Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption] <br/>
   I.Hwang, H.Lee, <ins>J.Seo</ins>, Y.Song <br/>
-  Preprint
+  CCS 2025
     
 1. [MatriGear: Accelerating Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing] <br/>
   H.Cha, I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
@@ -51,6 +55,8 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
   Y.Lee, <ins>J.Seo</ins>, Y.Nam, J.Chae, J.Cheon <br/>
   IEEE TDSC 2023
 
+
+[Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation]: https://eprint.iacr.org/2025/216
 [On the Security and Privacy of CKKS-based Homomorphic Evaluation Protocols]: https://eprint.iacr.org/2025/382
 [Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption]: https://eprint.iacr.org/2024/1879 
 [MatriGear: Accelerating Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing]: https://eprint.iacr.org/2024/1502
