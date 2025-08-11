@@ -9,7 +9,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 1. [On the Security and Privacy of CKKS-based Homomorphic Evaluation Protocols] <br/>
   I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
-  Preprint
+  ASIACRYPT 2025
 
 1. [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation] <br/>
   I.Hwang, S.Min, <ins>J.Seo</ins>, Y.Song <br/>
